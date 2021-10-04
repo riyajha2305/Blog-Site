@@ -2,6 +2,8 @@ body{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 18px;
   overflow-y: scroll;
+  background-image: url('/images/bg.jpg');
+  color: #fff;
 }
 .container-body{
   padding: 7% 13%;
